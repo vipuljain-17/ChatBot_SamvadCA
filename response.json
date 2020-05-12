@@ -1,0 +1,25 @@
+{"respones":
+    [
+    {"tag":"greeting",
+    "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"]
+    }
+    ,{ "tag": "goodbye",
+        "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+    },
+    {"tag": "name",
+        "responses": ["You can call me Samvad_CA.", "I'm Samvad_CA!", "I'm SC aka Samvad_CA."]
+    },
+    {"tag": "hours",
+        "responses": ["We are open 10am-9pm Monday-Saturday!"]
+    },
+    {"tag":"services",
+        "responses": ["We provide services like Audit,Income tax return filing,GST return filing \nFor more info contact us(or access our website for this)"]
+    },
+    {"tag":"contact",
+    "responses":["Contact us at samvadca@gmail.com or 93010-35111 or 0771-4051222"]
+    },
+    {"tag":"address",
+        "responses":["Our office is loacted at https://tinyurl.com/samvadcaAddress \n (Or) Contact us at samvadca@gmail.com"]
+    }
+]
+}
